@@ -1,0 +1,86 @@
+{
+    "mipymes": [
+        {
+            "id": 1,
+            "name": "Tulipan",
+            "location": {
+                "latitude": 40.4168,
+                "longitude": -3.7038
+            },
+            "products": [
+                {
+                    "product_id": "prod_001",
+                    "name":"n",
+                    "category": "champú",
+                    "brand": "MyBrand",
+                    "price": 25.50,
+                    "stock":1,
+                    "quantity": 500,
+                    "size": "ml"
+                },
+                {
+                    "product_id": "prod_001",
+                    "name":"n",
+                    "category": "champú",
+                    "brand": "MyBrand",
+                    "price": 25.50,
+                    "stock":1,
+                    "quantity": 500,
+                    "size": "ml"
+                },
+                {
+                    "product_id": "prod_002",
+                    "name":"m",
+                    "category": "íntima",
+                    "brand": "MyBrand", 
+                    "price": 28.00,
+                    "stock":1,
+                    "quantity": 1,
+                    "size": "L"
+                },
+                {
+                    "product_id": "prod_003",
+                    "name":"D",
+                    "category": "after shave",
+                    "brand": null,
+                    "price": 15.75,
+                    "stock":1,
+                    "quantity":null,
+                    "size":null
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Patron", 
+            "location": {
+                "latitude": 41.3888,
+                "longitude": 2.1589
+            },
+            "products": [
+                {
+                    "product_id": "prod_004",
+                    "name":"coco",
+                    "category": "papel sanitario",
+                    "brand": "Artisanal",
+                    "price": 18.90,
+                    "stock":1,
+                    "quantity": 4,
+                    "size": "unidades"
+                },
+                {
+                    "product_id": "prod_005",
+                    "name":"mango",
+                    "category": "desodorante", 
+                    "brand": "Artisanal",
+                    "price": 35.00,
+                    "stock":1,
+                    "quantity": 500,
+                    "size": "g" 
+                    
+                }
+            ]
+        }
+    ], 
+    "salones":[null]
+}
