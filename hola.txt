@@ -1,2 +1,0 @@
-"MODIFICACI‡N: $(date)" 
-"MODIFICACI‡N: dom 14/12/2025 22:20:44.88" 
